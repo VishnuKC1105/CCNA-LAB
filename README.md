@@ -4,3 +4,4 @@
 # You can download them and use them for your CCNA certification preparation. 
 
 Hope this helps :)
+And make sure you have downloaded cisco packet tracer so that you can open my file(.pkt).
